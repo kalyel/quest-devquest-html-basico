@@ -1,0 +1,17 @@
+.tabela.moda th {
+    background-color:#BB86FC;
+    color: #ffffff;
+}
+
+.tabela.casa th {
+    background-color: #00C4B4;
+    color: #ffffff;
+}
+
+table td, th {
+    background-color: #424250;
+    color: #ffffff;
+    padding: 5px;
+    font-size: 30px;
+}
+
