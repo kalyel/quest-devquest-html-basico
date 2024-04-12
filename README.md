@@ -1,4 +1,4 @@
-<h1>Desafio Tabelas</h1>
+<h1>Desafio Tabela</h1>
 
 <p>Desafio realizado nas etapas de HTML e CSS básico do curso Dev Quest. <br>
 Consiste em criar duas tabelas, uma com itens de moda e uma com itens de casa.</p>
